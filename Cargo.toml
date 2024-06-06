@@ -3,5 +3,7 @@ name = "libsort"
 version = "0.1.0"
 authors = ["abdul-khaliq"]
 edition = "2021"
+description = "A sorting liberary"
+license = "MIT"
 
 [dependencies]
