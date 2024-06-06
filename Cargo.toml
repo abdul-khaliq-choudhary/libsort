@@ -1,6 +1,7 @@
 [package]
-name = "sortrs"
+name = "libsort"
 version = "0.1.0"
+authors = ["abdul-khaliq"]
 edition = "2021"
 
 [dependencies]
